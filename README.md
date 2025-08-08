@@ -2,7 +2,7 @@
 
 **A deep-dive analysis and visualization tool for your TikTok data export.**
 
-This project is a heavily modified and enhanced version of the original `tiktok_json_analyzer` by [Elazrod56](https://github.com/Elazrod56). While the core idea remains, this version includes significant architectural improvements, robust error handling, detailed activity reports, and console-based charts for better data visualization.
+This project is a heavily modified and enhanced version of the original [tiktok_json_analyzer](https://github.com/Elazrod56/tiktok_json_analyzer) by [Elazrod56](https://github.com/Elazrod56). While the core idea remains, this version includes significant architectural improvements, robust error handling, detailed activity reports, and console-based charts for better data visualization.
 
 ---
 
@@ -28,7 +28,7 @@ You need to have the Rust programming language toolchain installed. If you don't
 
 1.  **Clone the repository:**
     ```sh
-    git clone [repo link]
+    git clone https://github.com/Desai0/TikTok-JSON-Data-Analyzer
     cd TJDA
     ```
 
