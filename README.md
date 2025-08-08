@@ -29,7 +29,7 @@ You need to have the Rust programming language toolchain installed. If you don't
 1.  **Clone the repository:**
     ```sh
     git clone https://github.com/Desai0/TikTok-JSON-Data-Analyzer
-    cd TJDA
+    cd TikTok-JSON-Data-Analyzer
     ```
 
 2.  **Request your TikTok data:**
